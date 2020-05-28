@@ -22,7 +22,7 @@ Columns A-G represent raw stock market data with over 700,000 rows of data acros
 
   * Ticker symbol to coincide with the total volume.
 
-* the script also uses coded conditional formatting to highlight positive change in green and negative change in red.
+* The script also makes use of hard-coded conditional formatting to highlight positive change in green and negative change in red.
 
 * The script locates the stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume" and prints info along the first four rows of columns O to Q.
 
