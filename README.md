@@ -8,7 +8,7 @@ Excel VBA
 
 ## **Data and Coding:**
 
-![screenshot1.jpg](2014.JPG)
+![screenshot1.jpg](2014.jpg)
 
 Columns A-G represent raw stock market data with over 700,000 rows of data across various stocks. Once the VBA script is ran, columns I-Q appear with data summaries for each stock.
 
@@ -28,9 +28,9 @@ Columns A-G represent raw stock market data with over 700,000 rows of data acros
 
 * Code is adjusted to allow script to run on every worksheet just by running it once. In this project each worksheet represents a year from 2014-2016. 
 
-![screenshot1.jpg](2015.JPG)
+![screenshot1.jpg](2015.jpg)
 
-![screenshot1.jpg](2016.JPG)
+![screenshot1.jpg](2016.jpg)
 
 
 
